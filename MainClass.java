@@ -32,7 +32,6 @@ public class MainClass {
 
 		return entries;
 	}
-
 	public static void main(String[] args) throws IOException {
 
 		ArffLoader loader = new ArffLoader();
