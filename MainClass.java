@@ -29,7 +29,6 @@ public class MainClass {
 			entries.add(new DataEntry(3, 0.00));
 			break;
 		}
-
 		return entries;
 	}
 	public static void main(String[] args) throws IOException {
