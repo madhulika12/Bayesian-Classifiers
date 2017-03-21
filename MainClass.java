@@ -28,7 +28,6 @@ public class MainClass {
 			entries.add(new DataEntry(2, 0.00));
 			entries.add(new DataEntry(3, 0.00));
 			break;
-
 		}
 
 		return entries;
